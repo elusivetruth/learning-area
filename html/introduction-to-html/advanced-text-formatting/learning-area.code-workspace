@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "learning-area",
+			"path": "../../.."
+		},
+		{
+			"name": "learning-area-1",
+			"path": "../../../../learning-area-1"
+		}
+	],
+	"settings": {}
+}
